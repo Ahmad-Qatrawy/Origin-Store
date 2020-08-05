@@ -355,7 +355,7 @@ section.slider img {
 
 .discount-desc {
     flex: 2;
-    height: 267px;
+    height: 265px;
     background-color: #f7f3ef;
     padding: 25px;
     position: relative;
@@ -436,6 +436,7 @@ section.slider img {
 
 .sprites {
     display: flex;
+    padding: 40px 0;
 }
 
 .sprite-item {
